@@ -1,0 +1,6 @@
+@import './index.css';
+*{
+  font-family: 'CirceRounded', sans-serif;
+  font-weight: 400;
+  color: #434B74;
+}

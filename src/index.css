@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'CirceRounded';
+  src:  
+      url("./fonts/CirceRounded-Regular.woff2") format("woff2"), 
+      url("./fonts/CirceRounded-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'CirceRounded';
+  src:  
+      url("./fonts/CirceRounded-ExtraLight.woff2") format("woff2"), 
+      url("./fonts/CirceRounded-ExtraLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'CirceRounded';
+  src:  
+      url("./fonts/CirceRounded-AltBold.woff2") format("woff2"), 
+      url("./fonts/CirceRounded-AltBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  margin: 0;
+  background-color: #cbf5ee;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
